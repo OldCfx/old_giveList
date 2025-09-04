@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
-
+lua54 'yes'
 name "old_giveList"
 description "give items ox_inventory"
 author "OldMoney"
